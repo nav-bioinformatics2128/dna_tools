@@ -49,3 +49,24 @@ for base in reverse:
         rev_comp += "G"
 
 print("Reverse Complement:", rev_comp)
+def count_all_bases(dna):
+    counts = {
+        "A": 0,
+        "G": 0,
+        "T": 0,
+        "C": 0
+    }
+    for base in dna:
+        if base in counts:
+            counts[base] += 1
+    return counts
+
+
+dna = input("Enter Dna: ").upper()
+result = count_all_bases(dna)
+
+total = len(dna)
+
+for base in result:
+    percent = (result[base] / total) * 100
+    print(base, "%:", percent)
