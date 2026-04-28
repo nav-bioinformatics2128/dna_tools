@@ -49,6 +49,7 @@ for base in reverse:
         rev_comp += "G"
 
 print("Reverse Complement:", rev_comp)
+
 def count_all_bases(dna):
     counts = {
         "A": 0,
