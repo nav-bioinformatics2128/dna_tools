@@ -22,5 +22,19 @@ C: 1 (20.0%)
 2. Enter DNA sequence
 3. Get results instantly
 
+## Project Versions
+
+### Basic Version (dna_basic.py)
+- Takes DNA input from user
+- Counts A, T, G, C bases
+- Calculates percentage of each base
+
+### Advanced Version (dna_analyzer_pandas.py)
+- Reads DNA sequences from file
+- Uses pandas for analysis
+- Calculates counts and percentages
+- Generates reverse sequence
+- Finds complementary DNA
+
 ## Author
 Navdeep
