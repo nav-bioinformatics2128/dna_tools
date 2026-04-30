@@ -1,1 +1,62 @@
+import pandas as pd
+import matplotlib.pyplot as plt
 
+# Read file
+df = pd.read_csv("dna.txt", header=None)
+print(df)
+
+# Loop through sequences
+for i, seq in enumerate(df[0]):
+    dna = seq.strip().upper()
+    print(f"\nSequence {i+1}: {dna}")
+
+    # 🧬 RNA Transcription
+    rna = dna.replace("T", "U")
+    print("RNA:", rna)
+
+    # Convert to list
+    bases = list(dna)
+
+    # Count bases
+    counts = pd.Series(bases).value_counts()
+    percent = pd.Series(bases).value_counts(normalize=True) * 100
+
+    # Ensure all bases present
+    counts = counts.reindex(["A","C","G","T"], fill_value=0)
+    percent = percent.reindex(["A","C","G","T"], fill_value=0)
+
+    # GC Content
+    gc = percent["G"] + percent["C"]
+    print("GC Content:", round(gc, 1))
+
+    # Print counts
+    print("Counts:")
+    for base, value in counts.items():
+        print(base, ":", value)
+
+    # Print percentages
+    print("Percentages:")
+    for base, value in percent.items():
+        print(base, "%:", round(value, 1))
+
+    print("-" * 30)
+
+    # Graph
+    plt.figure(figsize=(6,4))
+    plt.bar(percent.index, percent.values)
+
+    # Add labels on bars
+    for j, value in enumerate(percent.values):
+        plt.text(j, value + 1, str(round(value,1)) + "%", ha='center')
+
+    plt.title(f"Sequence {i+1}: {dna}")
+    plt.xlabel("Bases")
+    plt.ylabel("Percentage")
+    plt.grid(axis='y')
+    plt.tight_layout()
+
+    # Save graph
+    plt.savefig("dna_" + dna + ".png")
+
+    # Keep commented if graph blocks output
+    # plt.show()
