@@ -5,6 +5,7 @@ This repository shows my learning progression:
 - dna_basic.py → Basic DNA analysis (manual input)
 - dna_analyzer_pandas.py → File-based DNA analysis using pandas
 dna_analyzer_advanced.py
+- motif_finder.py → DNA motif/pattern searching using sliding window technique
 # 🧬 DNA Analyzer (Python Bioinformatics Project)
 
 This project analyzes DNA sequences using Python.
