@@ -8,6 +8,7 @@ dna_analyzer_advanced.py
 - motif_finder.py → DNA motif/pattern searching using sliding window technique
 - protein_translation.py → DNA codon to protein translation using codon tables
 - mutation_detector.py → DNA mutation detection and sequence comparison
+- fasta_parser.py → FASTA file parsing and biological sequence extraction
 # 🧬 DNA Analyzer (Python Bioinformatics Project)
 
 This project analyzes DNA sequences using Python.
