@@ -9,6 +9,7 @@ dna_analyzer_advanced.py
 - protein_translation.py → DNA codon to protein translation using codon tables
 - mutation_detector.py → DNA mutation detection and sequence comparison
 - fasta_parser.py → FASTA file parsing and biological sequence extraction
+- dna_similarity_checker.py → DNA sequence similarity calculation and comparison
 # 🧬 DNA Analyzer (Python Bioinformatics Project)
 
 This project analyzes DNA sequences using Python.
