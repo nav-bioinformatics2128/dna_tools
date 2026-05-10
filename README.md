@@ -10,6 +10,7 @@ dna_analyzer_advanced.py
 - mutation_detector.py → DNA mutation detection and sequence comparison
 - fasta_parser.py → FASTA file parsing and biological sequence extraction
 - dna_similarity_checker.py → DNA sequence similarity calculation and comparison
+- gc_content_comparison.py → GC content calculation and DNA sequence comparison
 # 🧬 DNA Analyzer (Python Bioinformatics Project)
 
 This project analyzes DNA sequences using Python.
