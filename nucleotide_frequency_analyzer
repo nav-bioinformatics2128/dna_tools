@@ -1,0 +1,10 @@
+dna = "ATGCGATACG"
+
+bases = ["A", "T", "G", "C"]
+
+print("DNA Sequence:", dna)
+print("=" * 30)
+
+for base in bases:
+
+    print(base, "count:", dna.count(base))
