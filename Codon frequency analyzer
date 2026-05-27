@@ -1,0 +1,17 @@
+dna = "ATGTTTATGCCC"
+
+codon_counts = {}
+
+for i in range(0, len(dna), 3):
+
+    codon = dna[i:i+3]
+
+    if codon in codon_counts:
+
+        codon_counts[codon] += 1
+
+    else:
+
+        codon_counts[codon] = 1
+
+print(codon_counts)
