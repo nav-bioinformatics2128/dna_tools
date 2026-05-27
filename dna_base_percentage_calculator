@@ -1,0 +1,14 @@
+dna = "ATGCGATACG"
+
+length = len(dna)
+
+print("DNA Sequence:", dna)
+print("=" * 30)
+
+for base in ["A", "T", "G", "C"]:
+
+    count = dna.count(base)
+
+    percentage = (count / length) * 100
+
+    print(base, "percentage:", round(percentage, 2), "%")
