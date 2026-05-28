@@ -23,6 +23,7 @@ dna_analyzer_advanced.py
 - DNA Palindrome Checker
 - Start Codon Finder
 - Stop Codon Finder
+- Open Reading Frame (ORF) Finder
 # 🧬 DNA Analyzer (Python Bioinformatics Project)
 
 This project analyzes DNA sequences using Python.
