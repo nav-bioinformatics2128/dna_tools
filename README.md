@@ -25,7 +25,8 @@ dna_analyzer_advanced.py
 - Stop Codon Finder
 - Open Reading Frame (ORF) Finder
 - Multi-Sequence GC Content Analyzer
-- Multi-Sequence Length Analyzer 
+- Multi-Sequence Length Analyzer
+- Longest DNA Sequence Finder
 # 🧬 DNA Analyzer (Python Bioinformatics Project)
 
 This project analyzes DNA sequences using Python.
