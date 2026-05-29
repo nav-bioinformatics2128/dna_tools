@@ -27,6 +27,7 @@ dna_analyzer_advanced.py
 - Multi-Sequence GC Content Analyzer
 - Multi-Sequence Length Analyzer
 - Longest DNA Sequence Finder
+- Shortest DNA Sequence Finder
 # 🧬 DNA Analyzer (Python Bioinformatics Project)
 
 This project analyzes DNA sequences using Python.
