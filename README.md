@@ -32,7 +32,8 @@ dna_analyzer_advanced.py
 - DNA Sequence Length Filter
 - DNA Sequence GC Classifier
 - DNA Sequence Length Sorter
-
+- DNA Sequence Frequency Table
+- DNA Sequence Search Tool
 # 🧬 DNA Analyzer - Multi-Sequence Motif Counter(Python Bioinformatics Project)
 
 This project analyzes DNA sequences using Python.
