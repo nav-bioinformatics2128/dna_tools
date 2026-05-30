@@ -30,7 +30,8 @@ dna_analyzer_advanced.py
 - Shortest DNA Sequence Finder
 - Average DNA Sequence Length Calculator
 - DNA Sequence Length Filter
-# 🧬 DNA Analyzer (Python Bioinformatics Project)
+
+# 🧬 DNA Analyzer - Multi-Sequence Motif Counter(Python Bioinformatics Project)
 
 This project analyzes DNA sequences using Python.
 
