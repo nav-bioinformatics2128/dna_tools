@@ -36,6 +36,9 @@ dna_analyzer_advanced.py
 - DNA Sequence Search Tool
 - DNA Sequence Start Base Counter
 - DNA Sequence End Base Counter
+- DNA Sequence File Writer
+- DNA Sequence File Reader
+- Total DNA Bases Counter from File
 # 🧬 DNA Analyzer - Multi-Sequence Motif Counter(Python Bioinformatics Project)
 
 This project analyzes DNA sequences using Python.
