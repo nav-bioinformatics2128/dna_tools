@@ -43,6 +43,7 @@ dna_analyzer_advanced.py
 - Shortest DNA Sequence Finder from File
 - DNA File Statistics Report
 - GC Content Report from File
+- FASTA GC Content Calculator
   
 # 🧬 DNA Analyzer - Multi-Sequence Motif Counter(Python Bioinformatics Project)
 
