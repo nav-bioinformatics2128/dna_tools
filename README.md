@@ -41,6 +41,7 @@ dna_analyzer_advanced.py
 - Total DNA Bases Counter from File
 - Longest DNA Sequence Finder from File
 - Shortest DNA Sequence Finder from File
+- DNA File Statistics Report
 # 🧬 DNA Analyzer - Multi-Sequence Motif Counter(Python Bioinformatics Project)
 
 This project analyzes DNA sequences using Python.
