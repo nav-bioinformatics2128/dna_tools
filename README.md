@@ -44,6 +44,7 @@ dna_analyzer_advanced.py
 - DNA File Statistics Report
 - GC Content Report from File
 - FASTA GC Content Calculator
+- FASTA Sequence Dictionary
   
 # 🧬 DNA Analyzer - Multi-Sequence Motif Counter(Python Bioinformatics Project)
 
