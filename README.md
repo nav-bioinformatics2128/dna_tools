@@ -45,6 +45,14 @@ dna_analyzer_advanced.py
 - GC Content Report from File
 - FASTA GC Content Calculator
 - FASTA Sequence Dictionary
+- First Biopython Sequence Program
+- Reverse Complement using Biopython
+- DNA to RNA transcription using Biopython
+- DNA to Protein translation using Biopython
+- FASTA Reader using Biopython
+- Shortest sequence Finder using Biopython
+- Average sequence length Finder using Biopython
+- Filter FASTA Sequences and Save to New File
   
 # 🧬 DNA Analyzer - Multi-Sequence Motif Counter(Python Bioinformatics Project)
 
