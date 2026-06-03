@@ -53,6 +53,14 @@ dna_analyzer_advanced.py
 - Shortest sequence Finder using Biopython
 - Average sequence length Finder using Biopython
 - Filter FASTA Sequences and Save to New File
+- Total GC Count from FASTA Using SeqIO
+- Count Total Sequences in FASTA Using SeqIO
+- Generate FASTA Summary Report
+- Multi-Statistic FASTA Report Generator
+- Lowest GC Content Finder
+- FASTA Analyzer Mini Project (Version 1)
+- Find Longest Sequence ID Using SeqIO
+- Find Shortest Sequence ID Using SeqIO
   
 # 🧬 DNA Analyzer - Multi-Sequence Motif Counter(Python Bioinformatics Project)
 
