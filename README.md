@@ -61,7 +61,10 @@ dna_analyzer_advanced.py
 - FASTA Analyzer Mini Project (Version 1)
 - Find Longest Sequence ID Using SeqIO
 - Find Shortest Sequence ID Using SeqIO
-  
+- Compare Two DNA Sequences and Count Differences
+- DNA Sequence Similarity Percentage Calculator
+- DNA mutation details 
+- DNA Sequence Mutation Report Generator
 # 🧬 DNA Analyzer - Multi-Sequence Motif Counter(Python Bioinformatics Project)
 
 This project analyzes DNA sequences using Python.
