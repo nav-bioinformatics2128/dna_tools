@@ -65,6 +65,16 @@ dna_analyzer_advanced.py
 - DNA Sequence Similarity Percentage Calculator
 - DNA mutation details 
 - DNA Sequence Mutation Report Generator
+- - Compare Multiple Sequence Pairs from a FASTA File
+- Find the Most Different Sequence Pair from a FASTA File
+- Generate a Sequence Comparison Report from FASTA Data
+- Find the Most Similar Sequence Pair from FASTA Data
+- Store Sequence Comparison Results in a Dictionary
+- Store Multiple Sequence Comparison Summaries in a List
+- Sort Sequence Comparison Results by Similarity
+- Generate a Sorted Sequence Similarity Report
+- Calculate Average Similarity Across Sequence Pairs
+- Find the Sequence Pair Closest to Average Similarity
 # 🧬 DNA Analyzer - Multi-Sequence Motif Counter(Python Bioinformatics Project)
 
 This project analyzes DNA sequences using Python.
