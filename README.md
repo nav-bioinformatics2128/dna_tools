@@ -75,6 +75,8 @@ dna_analyzer_advanced.py
 - Generate a Sorted Sequence Similarity Report
 - Calculate Average Similarity Across Sequence Pairs
 - Find the Sequence Pair Closest to Average Similarity
+- Find the Most and Least Similar Sequence Pairs
+- Count Sequence Pairs Above a Similarity Threshold
 # 🧬 DNA Analyzer - Multi-Sequence Motif Counter(Python Bioinformatics Project)
 
 This project analyzes DNA sequences using Python.
