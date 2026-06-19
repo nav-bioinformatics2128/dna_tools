@@ -77,6 +77,16 @@ dna_analyzer_advanced.py
 - Find the Sequence Pair Closest to Average Similarity
 - Find the Most and Least Similar Sequence Pairs
 - Count Sequence Pairs Above a Similarity Threshold
+## Bioinformatics Projects
+- Find Motif Positions in a DNA Sequence
+- Find the Longest DNA Sequence
+- Calculate Average Sequence Length
+- Generate a Sequence Summary Report
+- Count Sequences Above Average Length
+- Count Sequences with GC Content Above 50%
+- Find the Sequence with the Highest GC Content
+- Sort Sequences by GC Content
+- Find Top GC-Rich Sequences
 # 🧬 DNA Analyzer - Multi-Sequence Motif Counter(Python Bioinformatics Project)
 
 This project analyzes DNA sequences using Python.
